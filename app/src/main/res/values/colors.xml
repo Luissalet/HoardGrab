@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF121316</color>
+    <color name="surface">#FF1C1E23</color>
+    <color name="surface_hi">#FF262931</color>
+    <color name="gold">#FFE8B04B</color>
+    <color name="on_gold">#FF1E1505</color>
+    <color name="gold_dim">#FF5A4520</color>
+    <color name="text">#FFECE7DD</color>
+    <color name="text_dim">#FFA19C92</color>
+    <color name="ok">#FF7BC77E</color>
+    <color name="outline">#FF3A3D45</color>
+</resources>

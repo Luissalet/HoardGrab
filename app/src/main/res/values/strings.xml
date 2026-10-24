@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hoard Grab</string>
+    <string name="share_label">Hoard Grab</string>
+    <string name="url_hint">Enlace de X o Instagram</string>
+    <string name="paste">Pegar</string>
+    <string name="download">Descargar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="accounts">Cuentas</string>
+    <string name="acc_on">%1$s ✓</string>
+    <string name="acc_off">Entrar en %1$s</string>
+    <string name="downloads">Descargas</string>
+    <string name="empty">Pega un enlace o compártelo desde X o Instagram con «Hoard Grab».\nLos vídeos van a Movies/Hoard Grab.</string>
+    <string name="engine">yt-dlp %1$s</string>
+    <string name="update_engine">Actualizar yt-dlp</string>
+    <string name="more">Más</string>
+    <string name="done">Listo</string>
+    <string name="login_title">Iniciar sesión en %1$s</string>
+    <string name="login_ok">Sesión iniciada. Pulsa Listo.</string>
+    <string name="login_wait">Entra con usuario y contraseña (Google no funciona aquí)</string>
+</resources>
